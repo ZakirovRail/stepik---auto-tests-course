@@ -1,0 +1,45 @@
+First name
+
+ID = #reg-first-name
+Name = [name="registration-username"]
+XPath = //input[@id='reg-first-name' and @data-type='reg_name']
+Class name = .r-name
+CSS selector = input.r-name
+
+
+Last name
+
+ID = #reg-last-name
+Name = [name="registration-lastname"]
+XPath = //input[@id='reg-last-name' and @data-type='regis-lastname']
+Class name = .r-last
+CSS selector = input.r-last
+
+
+Email
+
+ID = #reg-email
+Name = [name="registration-email"]
+XPath = //input[@id='reg-email' and @data-type='regis-mail']
+Class name = .r-email
+CSS selector = input.r-email
+
+
+
+Phone
+
+ID = #reg-phone
+Name = [name="registration-phone"]
+XPath = //input[@id='reg-phone' and @data-type='regis-phone']
+Class name = .r-phone
+CSS selector = input.r-phone
+
+
+
+Address
+
+ID = #reg-addr
+Name = [name="registration-addr"]
+XPath = //input[@id='reg-addr' and @data-type='regis-addr']
+Class name = .r-address
+CSS selector = input.r-address
